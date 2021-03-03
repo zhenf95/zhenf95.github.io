@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>first on MISSS Blog</title>
-    <link>https://zhenf95.github.io/tags/first/</link>
-    <description>Recent content in first on MISSS Blog</description>
+    <title>test on MISSS Blog</title>
+    <link>https://zhenf95.github.io/categories/test/</link>
+    <description>Recent content in test on MISSS Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://zhenf95.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://zhenf95.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
       <link>https://zhenf95.github.io/posts/helloworld/</link>
