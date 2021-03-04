@@ -21,47 +21,6 @@ $$ y_{it} = x&#39;_{it}\theta + \alpha_{g_{i}t}+v_{it},\quad\quad i = 1,&amp;hel
     </item>
     
     <item>
-      <title>My 1st post</title>
-      <link>https://zhenf95.github.io/posts/helloworld/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://zhenf95.github.io/posts/helloworld/</guid>
-      <description>This is an equation: $$y_{it} = x&#39;_{it}\theta + \alpha_{g_{i}t}+v_{it},\quad\quad i = 1,&amp;hellip;,N,\quad t = 1,&amp;hellip;,T,$$ This is a variable: $x_{it}$</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zhenf95.github.io/posts/0-economists-to-follow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhenf95.github.io/posts/0-economists-to-follow/</guid>
-      <description>Economists to Follow Stéphane Bonhomme</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zhenf95.github.io/posts/0-reading-list/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhenf95.github.io/posts/0-reading-list/</guid>
-      <description>Reading List March 2021 Methodology
- Bonhomme, Stéphane, and Elena Manresa. &amp;ldquo;Grouped Patterns of Heterogeneity in Panel Data.&amp;rdquo; Econometrica 83.3 (2015): 1147-1184. Bonhomme, Stéphane. Teams: Heterogeneity, Sorting, and Complementarity. Working Paper. Bonhomme, Stéphane, Thibaut Lamadon, and Elena Manresa. &amp;ldquo;A distributional framework for matched employer employee data.&amp;rdquo; Econometrica 87.3 (2019): 699-739. Bonhomme, Stéphane. &amp;ldquo;Econometric analysis of bipartite networks&amp;rdquo; The Econometric Analysis of Network Data. Academic Press, 2020. 83-121. Arellano, Manuel, and Stéphane Bonhomme.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zhenf95.github.io/posts/2021-03-10-team-heterogeneity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhenf95.github.io/posts/2021-03-10-team-heterogeneity/</guid>
-      <description>Team Heterogeneity 2021/03/10
-Teams: Heterogeneity, Sorting, and Complementarity
-Keywords: Networks, production, complementarity, sorting.
-Summary: How much do individuals contribute to team output? I propose an econometric framework to quantify individual contributions when only the output of their teams is observed.
-Useful Resources  Slides of the presentation at the 2020 World Congress of the Econometric Society. Slides and video of the presentation at the Chamberlain Seminar. Codes to estimate additive and nonlinear models of team production  </description>
-    </item>
-    
-    <item>
       <title>Archive</title>
       <link>https://zhenf95.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
