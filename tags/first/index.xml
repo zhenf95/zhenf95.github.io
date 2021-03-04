@@ -12,7 +12,7 @@
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://zhenf95.github.io/posts/helloworld/</guid>
-      <description></description>
+      <description>This is an equation: $$y_{it} = x&#39;_{it}\theta + \alpha_{g_{i}t}+v_{it},\quad\quad i = 1,&amp;hellip;,N,\quad t = 1,&amp;hellip;,T,$$ This is a variable: $x_{it}$</description>
     </item>
     
   </channel>

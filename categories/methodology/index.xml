@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methodology on MISSS Blog</title>
+    <link>https://zhenf95.github.io/categories/methodology/</link>
+    <description>Recent content in Methodology on MISSS Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 03 Mar 2021 22:05:11 -0800</lastBuildDate><atom:link href="https://zhenf95.github.io/categories/methodology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grouped Fixed Effects</title>
+      <link>https://zhenf95.github.io/posts/2021-03-03-grouped-fixed-effects/</link>
+      <pubDate>Wed, 03 Mar 2021 22:05:11 -0800</pubDate>
+      
+      <guid>https://zhenf95.github.io/posts/2021-03-03-grouped-fixed-effects/</guid>
+      <description>Grouped Patterns of Heterogeneity in Panel Data (with Elena Manresa)
+Econometrica, 83(3), 1147-1184, May 2015.
+Summary: This post basically summarizes the grouped panel data model, which allows time-varying grouped patterns of unobservable heterogeneity in linear panel data models (Bonhomme and Manresa 2015).
+Model Specification The linear model with grouped patterns of heterogeneity:
+$$ y_{it} = x&#39;_{it}\theta + \alpha_{g_{i}t}+v_{it},\quad\quad i = 1,&amp;hellip;,N,\quad t = 1,&amp;hellip;,T, $$ where
+​	$x_{ij}$: covariates, $E[v_{ij}|x_{ij}]=0$</description>
+    </item>
+    
+  </channel>
+</rss>
