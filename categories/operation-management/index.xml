@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operation Management on MISSS Blog</title>
+    <link>https://zhenf95.github.io/categories/operation-management/</link>
+    <description>Recent content in Operation Management on MISSS Blog</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zhenf95.github.io/categories/operation-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assortment Rotation and the Value of Concealment</title>
+      <link>https://zhenf95.github.io/posts/2021-03-05-assortment-rotation-and-the-value-of-concealment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhenf95.github.io/posts/2021-03-05-assortment-rotation-and-the-value-of-concealment/</guid>
+      <description>Reference Kris Johnson Ferreira, Joel Goh (2021) Assortment Rotation and the Value of Concealment. Management Science 67(3):1489-1507. https://doi.org/10.1287/mnsc.2020.3610
+Summary This paper investigates assortment rotation, a retailing practice of changing product assortment offered to consumers. By allowing consumers to purchase multiple products throughout a season, this study compares the fixed assortment strategy (i.e., offering all products for the entire season) and sequential assortment strategy (i.e., offer each product sequentially through the selling season, one for a time).</description>
+    </item>
+    
+  </channel>
+</rss>
