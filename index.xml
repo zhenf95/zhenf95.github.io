@@ -5,7 +5,17 @@
     <link>https://zhenf95.github.io/</link>
     <description>Recent content on MISSS Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 03 Mar 2021 22:05:11 -0800</lastBuildDate><atom:link href="https://zhenf95.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 19:59:37 -0800</lastBuildDate><atom:link href="https://zhenf95.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assortment Rotation and the Value of Concealment</title>
+      <link>https://zhenf95.github.io/posts/2021-03-05-assortment-rotation-and-the-value-of-concealment/</link>
+      <pubDate>Fri, 05 Mar 2021 19:59:37 -0800</pubDate>
+      
+      <guid>https://zhenf95.github.io/posts/2021-03-05-assortment-rotation-and-the-value-of-concealment/</guid>
+      <description>Reference Kris Johnson Ferreira, Joel Goh (2021) Assortment Rotation and the Value of Concealment. Management Science 67(3):1489-1507. https://doi.org/10.1287/mnsc.2020.3610
+Summary This paper investigates assortment rotation, a retailing practice of changing product assortment offered to consumers. By allowing consumers to purchase multiple products throughout a season, this study compares the fixed assortment strategy (i.e., offering all products for the entire season) and sequential assortment strategy (i.e., offer each product sequentially through the selling season, one for a time).</description>
+    </item>
+    
     <item>
       <title>Grouped Fixed Effects</title>
       <link>https://zhenf95.github.io/posts/2021-03-03-grouped-fixed-effects/</link>
@@ -27,16 +37,6 @@ $$ y_{it} = x&#39;_{it}\theta + \alpha_{g_{i}t}+v_{it},\quad\quad i = 1,&amp;hel
       
       <guid>https://zhenf95.github.io/archives/</guid>
       <description>archives</description>
-    </item>
-    
-    <item>
-      <title>Assortment Rotation and the Value of Concealment</title>
-      <link>https://zhenf95.github.io/posts/2021-03-05-assortment-rotation-and-the-value-of-concealment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhenf95.github.io/posts/2021-03-05-assortment-rotation-and-the-value-of-concealment/</guid>
-      <description>Reference Kris Johnson Ferreira, Joel Goh (2021) Assortment Rotation and the Value of Concealment. Management Science 67(3):1489-1507. https://doi.org/10.1287/mnsc.2020.3610
-Summary This paper investigates assortment rotation, a retailing practice of changing product assortment offered to consumers. By allowing consumers to purchase multiple products throughout a season, this study compares the fixed assortment strategy (i.e., offering all products for the entire season) and sequential assortment strategy (i.e., offer each product sequentially through the selling season, one for a time).</description>
     </item>
     
     <item>
